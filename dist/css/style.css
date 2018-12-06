@@ -51,7 +51,6 @@
 
 /** Sidebar Arrows **/
 .treeview > a::after,
-	
 .treeview .treeview-level > a::after
 	
 {
